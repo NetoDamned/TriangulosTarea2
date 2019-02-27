@@ -39,7 +39,7 @@ namespace TrianguloTarea2
 
             area = Math.Sqrt(resultado2);
 
-            Console.WriteLine("El área de tu triángulo es: ");
+            Console.WriteLine("El área de tu triángulo es:");
             Console.WriteLine(area);
             Console.ReadKey();
 
